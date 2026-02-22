@@ -3,11 +3,6 @@ PROJECT OVERVIEW
 
 This project demonstrates the simulation and detection of brute force attacks within a contorlled SOC lab environment. An Ubuntu server was configured with multiple exposed services and authentication logs were centrally monitored using Splunk.
 
-![WEB PAGE BRUTE FORCE ATTACK](https://github.com/user-attachments/assets/34c93d81-d913-4495-af50-6d5cc5be3d30)
-![FTP ANONYMOUS LOGIN](https://github.com/user-attachments/assets/e4e12747-3782-43f0-875c-745246d7d7ab)
-![BRUTE FORCE ATTACK](https://github.com/user-attachments/assets/444d246e-a85a-4be9-b411-cb4b333a1a48)
-![ATTACKER](https://github.com/user-attachments/assets/1897fe0f-360b-4645-9874-a292ce27db5f)
-![ALERTS](https://github.com/user-attachments/assets/b1823a95-328c-475f-aa9a-1e32015638ab)
 The objective was to analyze attacker behavior and implement detection logic aligned with real-world SOC monitoring practices.
 
 LAB ENVIRONMENT
@@ -104,6 +99,7 @@ FUTURE IMPROVEMENTS
 PROJECT OUTCOME
 
 This project reflects hands-on experience in simulating authentication-based attacks developing detection mechanisms within a SIEM platform. It demonstrates an understanding of attack methodologies, log analysis and SOC-level monitoring practices.
+
 ![ATTACKER](https://github.com/user-attachments/assets/60b96393-b70c-406f-a9b7-2dc12b0d5ac4)
 ![ALERTS](https://github.com/user-attachments/assets/2b42c4f1-cc37-4468-b10f-f572d6dcfb15)
 ![BRUTE FORCE ATTACK](https://github.com/user-attachments/assets/cc5b23d7-9ef4-40a4-b9f0-e93ea3ba4347)
